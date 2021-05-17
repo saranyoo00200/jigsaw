@@ -13,6 +13,8 @@
   <link href="https://cdn.discordapp.com/attachments/841562172697477130/841568001349910538/favicon.png" rel="icon">
   <link href="https://cdn.discordapp.com/attachments/841562172697477130/841568001349910538/favicon.png" rel="apple-touch-icon">
 
+  {{-- font-awesome --}}
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.3/css/all.css" integrity="sha384-SZXxX4whJ79/gErwcOYf+zWLeJdY/qpuqC4cAa9rOGUstPomtqpuNWT9wdPEn2fk" crossorigin="anonymous">
   <!-- Google Fonts -->
   <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
   <!-- G-Font -->
@@ -190,26 +192,26 @@
               </div>
           </div>
           
-          <div class="d-flex justify-content-evenly">
+          <div class="row d-flex justify-content-evenly">
             <div class="col-lg-4 col-md-6 d-flex align-items-stretch my-3" data-aos="zoom-in" data-aos-delay="100">
-            <div class="card icon-box" style="width: 100%;">
-                <img src="/assets/img/portfolio/js.jpg" width="100%" alt="...">
-                <div class="card-body">
-                  <p class="card-text">บริษัท จิ๊กซอว์ อินโนเวชั่น จำกัด ร่วมทำบุญถวายข้าวสารอาหารแห้ง และเครื่องใช้อุปโภคบริโภคในโอกาสเริ่มปีใหม่ 2561 และฉลองบริษัทฯครบรอบ 5 ปี</p>
-                </div>
-                <span>ณ วัดดอนจั่น จ.เชียงใหม่ นำโดย คุณเจษฎา ฤดีกุลรุ่งโรจน์ รองประธานกรรมการบริหาร ทั้งนี้ได้ถ่ายรูปเป็นที่ระลึกร่วมกับฝ่ายบริหาร และผู้แทนพนักงานสาขาเชียงใหม่ เพื่อเป็นขวัญ และกำลังใจในการทำงานในปีที่ 2561 ต่อไป</span>
+              <div class="card icon-box" style="width: 100%;">
+                  <img src="/assets/img/portfolio/js.jpg" width="100%" alt="...">
+                  <div class="card-body">
+                    <p class="card-text">บริษัท จิ๊กซอว์ อินโนเวชั่น จำกัด ร่วมทำบุญถวายข้าวสารอาหารแห้ง และเครื่องใช้อุปโภคบริโภคในโอกาสเริ่มปีใหม่ 2561 และฉลองบริษัทฯครบรอบ 5 ปี</p>
+                  </div>
+                  <span>ณ วัดดอนจั่น จ.เชียงใหม่ นำโดย คุณเจษฎา ฤดีกุลรุ่งโรจน์ รองประธานกรรมการบริหาร ทั้งนี้ได้ถ่ายรูปเป็นที่ระลึกร่วมกับฝ่ายบริหาร และผู้แทนพนักงานสาขาเชียงใหม่ เพื่อเป็นขวัญ และกำลังใจในการทำงานในปีที่ 2561 ต่อไป</span>
               </div>
-          </div>
-          
-          <div class="col-lg-4 col-md-6 d-flex align-items-stretch my-3" data-aos="zoom-in" data-aos-delay="100">
-            <div class="card icon-box" style="width: 100%;">
-                <img src="/assets/img/portfolio/meeting.jpg" width="100%" alt="...">
-                <div class="card-body">
-                  <p class="card-text">ประชุมนอกสถานที่ บริษัท จิ๊กซอว์ อินโนเวชั่น จำกัด ปรับเปลี่ยนบรรยากาศในการทำงานให้สดชื่น</p>
-                </div>
-                <span>ณ ร้าน ISDSI</span>
+            </div>
+            
+            <div class="col-lg-4 col-md-6 d-flex align-items-stretch my-3" data-aos="zoom-in" data-aos-delay="100">
+              <div class="card icon-box" style="width: 100%;">
+                  <img src="/assets/img/portfolio/meeting.jpg" width="100%" alt="...">
+                  <div class="card-body">
+                    <p class="card-text">ประชุมนอกสถานที่ บริษัท จิ๊กซอว์ อินโนเวชั่น จำกัด ปรับเปลี่ยนบรรยากาศในการทำงานให้สดชื่น</p>
+                  </div>
+                   <span>ณ ร้าน ISDSI</span>
               </div>
-          </div>
+            </div>            
           </div>
 
           <div class="d-flex justify-content-end">
@@ -238,10 +240,9 @@
               <div class="member-img">
                 <img src="/assets/img/teams/team-gon.jpg" class="img-fluid" alt="">
                 <div class="social">
-                  <a href=""><i class="bi bi-twitter"></i></a>
-                  <a href=""><i class="bi bi-facebook"></i></a>
-                  <a href=""><i class="bi bi-instagram"></i></a>
-                  <a href=""><i class="bi bi-phone"></i></a>
+                  <a href=""><i class="fab fa-facebook"></i></a>
+                  <a href=""><i class="fab fa-instagram"></i></a>
+                  <a href=""><i class="fab fa-line"></i></a>
                 </div>
               </div>
               <div class="member-info">
@@ -257,10 +258,9 @@
               <div class="member-img">
                 <img src="/assets/img/teams/team-jeng.jpg" class="img-fluid" alt="">
                 <div class="social">
-                  <a href=""><i class="bi bi-twitter"></i></a>
-                  <a href=""><i class="bi bi-facebook"></i></a>
-                  <a href=""><i class="bi bi-instagram"></i></a>
-                  <a href=""><i class="bi bi-phone"></i></a>
+                  <a href=""><i class="fab fa-facebook"></i></a>
+                  <a href=""><i class="fab fa-instagram"></i></a>
+                  <a href=""><i class="fab fa-line"></i></a>
                 </div>
               </div>
               <div class="member-info">
@@ -275,10 +275,9 @@
               <div class="member-img">
                 <img src="/assets/img/teams/team-joe.jpg" class="img-fluid" alt="">
                 <div class="social">
-                  <a href=""><i class="bi bi-twitter"></i></a>
-                  <a href=""><i class="bi bi-facebook"></i></a>
-                  <a href=""><i class="bi bi-instagram"></i></a>
-                  <a href=""><i class="bi bi-phone"></i></a>
+                  <a href=""><i class="fab fa-facebook"></i></a>
+                  <a href=""><i class="fab fa-instagram"></i></a>
+                  <a href=""><i class="fab fa-line"></i></a>
                 </div>
               </div>
               <div class="member-info">
@@ -293,10 +292,9 @@
               <div class="member-img">
                 <img src="/assets/img/teams/team-jj.jpg" class="img-fluid" alt="">
                 <div class="social">
-                  <a href=""><i class="bi bi-twitter"></i></a>
-                  <a href=""><i class="bi bi-facebook"></i></a>
-                  <a href=""><i class="bi bi-instagram"></i></a>
-                  <a href=""><i class="bi bi-phone"></i></a>
+                  <a href=""><i class="fab fa-facebook"></i></a>
+                  <a href=""><i class="fab fa-instagram"></i></a>
+                  <a href=""><i class="fab fa-line"></i></a>
                 </div>
               </div>
               <div class="member-info">
@@ -311,10 +309,9 @@
               <div class="member-img">
                 <img src="/assets/img/teams/team-poy.jpg" class="img-fluid" alt="">
                 <div class="social">
-                  <a href=""><i class="bi bi-twitter"></i></a>
-                  <a href=""><i class="bi bi-facebook"></i></a>
-                  <a href=""><i class="bi bi-instagram"></i></a>
-                  <a href=""><i class="bi bi-phone"></i></a>
+                  <a href=""><i class="fab fa-facebook"></i></a>
+                  <a href=""><i class="fab fa-instagram"></i></a>
+                  <a href=""><i class="fab fa-line"></i></a>
                 </div>
               </div>
               <div class="member-info">
@@ -329,10 +326,9 @@
               <div class="member-img">
                 <img src="/assets/img/teams/team-top.jpg" class="img-fluid" alt="">
                 <div class="social">
-                  <a href=""><i class="bi bi-twitter"></i></a>
-                  <a href=""><i class="bi bi-facebook"></i></a>
-                  <a href=""><i class="bi bi-instagram"></i></a>
-                  <a href=""><i class="bi bi-phone"></i></a>
+                  <a href=""><i class="fab fa-facebook"></i></a>
+                  <a href=""><i class="fab fa-instagram"></i></a>
+                  <a href=""><i class="fab fa-line"></i></a>
                 </div>
               </div>
               <div class="member-info">
@@ -347,10 +343,9 @@
               <div class="member-img">
                 <img src="/assets/img/teams/team-art.jpg" class="img-fluid" alt="">
                 <div class="social">
-                  <a href=""><i class="bi bi-twitter"></i></a>
-                  <a href=""><i class="bi bi-facebook"></i></a>
-                  <a href=""><i class="bi bi-instagram"></i></a>
-                  <a href=""><i class="bi bi-phone"></i></a>
+                  <a href=""><i class="fab fa-facebook"></i></a>
+                  <a href=""><i class="fab fa-instagram"></i></a>
+                  <a href=""><i class="fab fa-line"></i></a>
                 </div>
               </div>
               <div class="member-info">
@@ -365,10 +360,9 @@
               <div class="member-img">
                 <img src="/assets/img/teams/team-pond.jpg" class="img-fluid" alt="">
                 <div class="social">
-                  <a href=""><i class="bi bi-twitter"></i></a>
-                  <a href=""><i class="bi bi-facebook"></i></a>
-                  <a href=""><i class="bi bi-instagram"></i></a>
-                  <a href=""><i class="bi bi-phone"></i></a>
+                  <a href=""><i class="fab fa-facebook"></i></a>
+                  <a href=""><i class="fab fa-instagram"></i></a>
+                  <a href=""><i class="fab fa-line"></i></a>
                 </div>
               </div>
               <div class="member-info">
@@ -378,16 +372,15 @@
             </div>
           </div>
           
-          <div class="d-flex justify-content-evenly">
+          <div class="row d-flex justify-content-evenly">
             <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
                 <div class="member" data-aos="fade-up" data-aos-delay="400">
                   <div class="member-img">
                     <img src="/assets/img/teams/team-kui.jpg" width="100%" height="300px" alt="">
                     <div class="social">
-                      <a href=""><i class="bi bi-twitter"></i></a>
-                      <a href=""><i class="bi bi-facebook"></i></a>
-                      <a href=""><i class="bi bi-instagram"></i></a>
-                      <a href=""><i class="bi bi-phone"></i></a>
+                      <a href=""><i class="fab fa-facebook"></i></a>
+                      <a href=""><i class="fab fa-instagram"></i></a>
+                      <a href=""><i class="fab fa-line"></i></a>
                     </div>
                   </div>
                   <div class="member-info">
@@ -402,10 +395,9 @@
                   <div class="member-img">
                     <img src="/assets/img/teams/team-prim.jpg"  width="100%" height="300px" alt="">
                     <div class="social">
-                      <a href=""><i class="bi bi-twitter"></i></a>
-                      <a href=""><i class="bi bi-facebook"></i></a>
-                      <a href=""><i class="bi bi-instagram"></i></a>
-                      <a href=""><i class="bi bi-phone"></i></a>
+                      <a href=""><i class="fab fa-facebook"></i></a>
+                      <a href=""><i class="fab fa-instagram"></i></a>
+                      <a href=""><i class="fab fa-line"></i></a>
                     </div>
                   </div>
                   <div class="member-info">
@@ -420,10 +412,9 @@
                   <div class="member-img">
                     <img src="/assets/img/teams/team-amp.jpg" width="100%" height="300px" alt="">
                     <div class="social">
-                      <a href=""><i class="bi bi-twitter"></i></a>
-                      <a href=""><i class="bi bi-facebook"></i></a>
-                      <a href=""><i class="bi bi-instagram"></i></a>
-                      <a href=""><i class="bi bi-phone"></i></a>
+                      <a href=""><i class="fab fa-facebook"></i></a>
+                      <a href=""><i class="fab fa-instagram"></i></a>
+                      <a href=""><i class="fab fa-line"></i></a>
                     </div>
                   </div>
                   <div class="member-info">
