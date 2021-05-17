@@ -34,6 +34,7 @@
   <link href="assets/css/style.css" rel="stylesheet">
   <link href="assets/css/style-about.css" rel="stylesheet">
   <link href="assets/css/style-clients.css" rel="stylesheet">
+  {{-- <link href="assets/css/style-portfolio.css" rel="stylesheet"> --}}
 
 </head>
 
@@ -55,16 +56,16 @@
           <li><a class="nav-link scrollto" href="#team">Team</a></li>
           <li><a class="nav-link scrollto" href="#clients">Our Client</a></li>
           <li><a class="nav-link scrollto" href="#contact">Contact</a></li>
-
-          
         </ul>
-       
+        <i class="bi bi-list mobile-nav-toggle"></i>
       </nav><!-- .navbar -->
 
       <a href="#about" class="get-started-btn scrollto">Get Started</a>
 
     </div>
   </header><!-- End Header -->
+
+  
 
   <!-- ======= Hero Section ======= -->
   <section id="hero" class="d-flex align-items-center justify-content-center">

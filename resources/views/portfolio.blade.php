@@ -5,7 +5,7 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>Jigsaw Innovation - Index</title>
+  <title>Jigsaw Innovation</title>
   <meta content="" name="description">
   <meta content="" name="keywords">
 
@@ -26,11 +26,11 @@
   <link href="assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
 
   <!-- Template Main CSS File -->
-  <link href="assets/css/style.css" rel="stylesheet">
+  <link href="assets/css/style-portfolio.css" rel="stylesheet">
   
 </head>
 
-<body>
+<body> 
 
   <!-- ======= Header ======= -->
   <header id="header" class="fixed-top ">
