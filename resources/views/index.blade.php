@@ -27,15 +27,9 @@
 
   <!-- Template Main CSS File -->
   <link href="assets/css/style.css" rel="stylesheet">
-  <link href="assets/css/style2.css" rel="stylesheet">
+  <link href="assets/css/style-about.css" rel="stylesheet">
   <link href="assets/css/style-clients.css" rel="stylesheet">
 
-  <!-- =======================================================
-  * Template Name: Gp - v4.1.0
-  * Template URL: https://bootstrapmade.com/gp-free-multipurpose-html-bootstrap-template/
-  * Author: BootstrapMade.com
-  * License: https://bootstrapmade.com/license/
-  ======================================================== -->
 </head>
 
 <body>
@@ -99,9 +93,6 @@
                 จัดตั้งขึ้นบนพื้นฐานความเชื่อเดียวกันของกลุ่มคนที่เชื่อว่า “ในเมื่อเทคโนโลยีพามนุษย์โลกไปถึงดวงจันทร์ได้ นวัตกรรมก็ย่อมสามารถถอดรหัสความฝัน และแก้ไขปัญหาที่เกิดขึ้นได้เช่นกัน” บริษัท จิ๊กซอว์ อินโนเวชั่น จำกัด จึงได้ก่อตัวขึ้น โดยมีวัตถุประสงค์และเป้าหมายเดียวกันคือการ ศึกษา ออกแบบ และพัฒนานวัตกรรมและเทคโนโลยีที่ตอบสนองความต้องการของมนุษย์ได้จริง
             </p>    
           </div>
-          {{-- <div class="col-lg-6" data-aos="fade-left" data-aos-delay="100">
-            <img src="http://jigsawinnovation.com/images/chair-computer-contemporary-1086538.jpg" class="img-fluid"  alt="">
-          </div> --}}
         </div>
 
         <div class="row mt-5 text-center">
@@ -137,39 +128,6 @@
       
     </section><!-- End About Section -->
 
-    {{-- <!-- ======= Features Section ======= -->
-    <section id="features" class="features">
-      <div class="container" data-aos="fade-up">
-
-        <div class="row">
-          <div class="image col-lg-6" style='background-image: url("assets/img/features.jpg");' data-aos="fade-right"></div>
-          <div class="col-lg-6" data-aos="fade-left" data-aos-delay="100">
-            <div class="icon-box mt-5 mt-lg-0" data-aos="zoom-in" data-aos-delay="150">
-              <i class="align-content-xl-center"><img src="https://cdn.discordapp.com/attachments/746380296630567085/841638656796393532/software.png" class="img-fluid" alt="" height="" width="120"></i>            
-              <h4>SOFTWARE</h4>
-              <p>ประกอบกิจการ ออกแบบ พัฒนา หรือจัดหา ระบบเทคโนโลยีสารสนเทศเพื่อสนับสนุนภารกิจหรือธุรกิจ ให้แก่ บุคคล คณะบุคคล นิติบุคคล ส่วนราชการ และองค์กรของรัฐ ทั้งภายในประเทศและต่างประเทศ</p>
-            </div>
-            <div class="icon-box mt-5" data-aos="zoom-in" data-aos-delay="150">
-              <i class="align-content-xl-center"><img src="https://cdn.discordapp.com/attachments/746380296630567085/841638651573436446/hardware.png" class="img-fluid" alt="" height="" width="120"></i>
-              <h4>HARDWARE</h4>
-              <p>ประกอบกิจการค้า จำหน่าย หรือให้บริการ ระบบงานผลิตภัณฑ์ซอฟต์แวร์ ฮาร์ดแวร์ รวมทั้งอุปกรณ์ที่เกี่ยวข้องด้านเทคโนโลยี ทั้งภายในประเทศและต่างประเทศ</p>
-            </div>
-            <div class="icon-box mt-5" data-aos="zoom-in" data-aos-delay="150">
-              <i class="align-content-xl-center"><img src="https://cdn.discordapp.com/attachments/746380296630567085/841638649752715305/graphic.png" class="img-fluid" alt="" height="" width="120"></i>
-              <h4>GRAPHIC</h4>
-              <p>กระบวนการสร้างสรรค์ หรือการออกแบบเพื่อใช้ในการสื่อสาร อันเกิดจากการผสมผสานของ แนวความคิด ศิลปะ เทคโนโลยี หรือข้อมูล ผ่านทางสื่อในรูปแบบต่างๆ</p>
-            </div>
-            <div class="icon-box mt-5" data-aos="zoom-in" data-aos-delay="150">
-              <i class="align-content-xl-center"><img src="https://cdn.discordapp.com/attachments/746380296630567085/841638655394316289/other.png" class="img-fluid" alt="" height="" width="120"></i>
-              <h4>OTHER</h4>
-              <p>ศึกษา วิจัย และพัฒนา นวัตกรรม ผลิตภัณฑ์ซอฟต์แวร์ ฮาร์ดแวร์ รวมทั้งอุปกรณ์ที่เกี่ยวข้องด้านเทคโนโลยี เพื่อยกระดับกระบวนการบริหารงานบริษัท ผลิตภัณฑ์ และสร้างโอกาสทางธุรกิจใหม่ของกลุ่มเป้าหมายทั้งในปัจจุบันและอนาคต</p>
-            </div>
-          </div>
-        </div>
-
-      </div>
-    </section><!-- End Features Section --> --}}
-
     <!-- ======= Services Section ======= -->
     <section id="services" class="services">
       <div class="container" data-aos="fade-up">
@@ -183,7 +141,7 @@
           <div class="card icon-box" style="width: 100%;">
               <div class="row">
                   <div class="col-lg-3">
-                    <img src="https://cdn.discordapp.com/attachments/841562172697477130/842092665578323978/11.jpg"  width="100%" height="320px" alt="...">
+                    <img src="/assets/img/portfolio/11.jpg"  width="100%" height="320px" alt="...">
                   </div>
                   <div class="col-lg">
                     <div class="card-body" style="margin-top: 10%;">
@@ -199,7 +157,7 @@
         <div class="row">
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch my-3" data-aos="zoom-in" data-aos-delay="100">
             <div class="card icon-box" style="width: 100%;">
-                <img src="http://jigsawinnovation.com/images/kd2.jpg" width="100%" alt="...">
+                <img src="/assets/img/portfolio/kd2.jpg" width="100%" alt="...">
                 <div class="card-body">
                   <p class="card-text">ฝึกอบรมหลักสูตร INFOGRAPHIC จังหวัดระยอง วันที่ 12 ก.พ. 2561</p>
                 </div>
@@ -210,7 +168,7 @@
           
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch my-3" data-aos="zoom-in" data-aos-delay="100">
             <div class="card icon-box" style="width: 100%;">
-                <img src="http://jigsawinnovation.com/images/7.jpg" width="100%" alt="...">
+                <img src="/assets/img/portfolio/7.jpg" width="100%" alt="...">
                 <div class="card-body">
                   <p class="card-text">วันที่ 7 มีนาคม 2561 นายกษิดิ์เดช เดชวงศ์ญา ประธานกรรมการและทีมงาน บริษัท จิ๊กซอว์ อินโนเวชั่น จำกัด ได้ดำเดินการจัดอบรมทบทวนหลีกสูตรผู้บริหารจังหวัดภาคตะวันออก 1</p>
                 </div>
@@ -220,7 +178,7 @@
           
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch my-3" data-aos="zoom-in" data-aos-delay="100">
             <div class="card icon-box" style="width: 100%;">
-                <img src="http://jigsawinnovation.com/images/22-24.jpg" width="100%" alt="...">
+                <img src="/assets/img/portfolio/22-24.jpg" width="100%" alt="...">
                 <div class="card-body">
                   <p class="card-text">บริษัท จิ๊กซอว์ อินโนเวชั่น จำกัด ประชุมร่วมกับ กระทรวงยุติธรรมเพื่อทำโครงการที่กำลังเกิดขึ้นเร็วๆนี้ เมื่อวันที่ 22-24 ต.ค. 2561 </p>
                 </div>
@@ -231,7 +189,7 @@
           <div class="d-flex justify-content-evenly">
             <div class="col-lg-4 col-md-6 d-flex align-items-stretch my-3" data-aos="zoom-in" data-aos-delay="100">
             <div class="card icon-box" style="width: 100%;">
-                <img src="http://jigsawinnovation.com/images/js.jpg" width="100%" alt="...">
+                <img src="/assets/img/portfolio/js.jpg" width="100%" alt="...">
                 <div class="card-body">
                   <p class="card-text">บริษัท จิ๊กซอว์ อินโนเวชั่น จำกัด ร่วมทำบุญถวายข้าวสารอาหารแห้ง และเครื่องใช้อุปโภคบริโภคในโอกาสเริ่มปีใหม่ 2561 และฉลองบริษัทฯครบรอบ 5 ปี</p>
                 </div>
@@ -241,7 +199,7 @@
           
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch my-3" data-aos="zoom-in" data-aos-delay="100">
             <div class="card icon-box" style="width: 100%;">
-                <img src="http://jigsawinnovation.com/images/meeting.jpg" width="100%" alt="...">
+                <img src="/assets/img/portfolio/meeting.jpg" width="100%" alt="...">
                 <div class="card-body">
                   <p class="card-text">ประชุมนอกสถานที่ บริษัท จิ๊กซอว์ อินโนเวชั่น จำกัด ปรับเปลี่ยนบรรยากาศในการทำงานให้สดชื่น</p>
                 </div>
@@ -541,29 +499,6 @@
             <div>
               <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d944.1927935241212!2d98.9624191292256!3d18.808348368695555!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x30da3a5e795c8c23%3A0x5febef9f4f9c5302!2z4Lir4Lit4Lie4Lix4LiB4Lig4Li54Lif4LmJ4Liy!5e0!3m2!1sth!2sth!4v1620639121064!5m2!1sth!2sth" width="100%" height="280px" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
             </div>
-
-            {{-- <form action="forms/contact.php" method="post" role="form" class="php-email-form">
-              <div class="row">
-                <div class="col-md-6 form-group">
-                  <input type="text" name="name" class="form-control" id="name" placeholder="Your Name" required>
-                </div>
-                <div class="col-md-6 form-group mt-3 mt-md-0">
-                  <input type="email" class="form-control" name="email" id="email" placeholder="Your Email" required>
-                </div>
-              </div>
-              <div class="form-group mt-3">
-                <input type="text" class="form-control" name="subject" id="subject" placeholder="Subject" required>
-              </div>
-              <div class="form-group mt-3">
-                <textarea class="form-control" name="message" rows="5" placeholder="Message" required></textarea>
-              </div>
-              <div class="my-3">
-                <div class="loading">Loading</div>
-                <div class="error-message"></div>
-                <div class="sent-message">Your message has been sent. Thank you!</div>
-              </div>
-              <div class="text-center"><button type="submit">Send Message</button></div>
-            </form> --}}
 
           </div>
 
