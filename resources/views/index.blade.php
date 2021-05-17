@@ -255,7 +255,7 @@
           </div>
 
           <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
-            <div class="member" data-aos="fade-up" data-aos-delay="200">
+            <div class="member" data-aos="fade-up" data-aos-delay="100">
               <div class="member-img">
                 <img src="/assets/img/teams/team-jeng.jpg" class="img-fluid" alt="">
                 <div class="social">
@@ -272,7 +272,7 @@
           </div>
 
           <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
-            <div class="member" data-aos="fade-up" data-aos-delay="300">
+            <div class="member" data-aos="fade-up" data-aos-delay="100">
               <div class="member-img">
                 <img src="/assets/img/teams/team-joe.jpg" class="img-fluid" alt="">
                 <div class="social">
@@ -289,7 +289,7 @@
           </div>
 
           <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
-            <div class="member" data-aos="fade-up" data-aos-delay="400">
+            <div class="member" data-aos="fade-up" data-aos-delay="100">
               <div class="member-img">
                 <img src="/assets/img/teams/team-jj.jpg" class="img-fluid" alt="">
                 <div class="social">
@@ -306,7 +306,7 @@
           </div>
           
           <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
-            <div class="member" data-aos="fade-up" data-aos-delay="400">
+            <div class="member" data-aos="fade-up" data-aos-delay="100">
               <div class="member-img">
                 <img src="/assets/img/teams/team-poy.jpg" class="img-fluid" alt="">
                 <div class="social">
@@ -323,7 +323,7 @@
           </div>
           
           <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
-            <div class="member" data-aos="fade-up" data-aos-delay="400">
+            <div class="member" data-aos="fade-up" data-aos-delay="100">
               <div class="member-img">
                 <img src="/assets/img/teams/team-top.jpg" class="img-fluid" alt="">
                 <div class="social">
@@ -340,7 +340,7 @@
           </div>
           
           <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
-            <div class="member" data-aos="fade-up" data-aos-delay="400">
+            <div class="member" data-aos="fade-up" data-aos-delay="100">
               <div class="member-img">
                 <img src="/assets/img/teams/team-art.jpg" class="img-fluid" alt="">
                 <div class="social">
@@ -357,7 +357,7 @@
           </div>
           
           <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
-            <div class="member" data-aos="fade-up" data-aos-delay="400">
+            <div class="member" data-aos="fade-up" data-aos-delay="100">
               <div class="member-img">
                 <img src="/assets/img/teams/team-pond.jpg" class="img-fluid" alt="">
                 <div class="social">
@@ -375,7 +375,7 @@
           
           <div class="row d-flex justify-content-evenly">
             <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
-                <div class="member" data-aos="fade-up" data-aos-delay="400">
+                <div class="member" data-aos="fade-up" data-aos-delay="100">
                   <div class="member-img">
                     <img src="/assets/img/teams/team-kui.jpg" width="100%" height="300px" alt="">
                     <div class="social">
@@ -392,7 +392,7 @@
               </div>
               
               <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
-                <div class="member" data-aos="fade-up" data-aos-delay="400">
+                <div class="member" data-aos="fade-up" data-aos-delay="100">
                   <div class="member-img">
                     <img src="/assets/img/teams/team-prim.jpg"  width="100%" height="300px" alt="">
                     <div class="social">
@@ -409,7 +409,7 @@
               </div>
               
               <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
-                <div class="member" data-aos="fade-up" data-aos-delay="400">
+                <div class="member" data-aos="fade-up" data-aos-delay="100">
                   <div class="member-img">
                     <img src="/assets/img/teams/team-amp.jpg" width="100%" height="300px" alt="">
                     <div class="social">
