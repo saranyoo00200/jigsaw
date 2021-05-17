@@ -5,7 +5,7 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>Jigsaw Innovation - Index</title>
+  <title>Jigsaw Innovation</title>
   <meta content="" name="description">
   <meta content="" name="keywords">
 
@@ -437,7 +437,7 @@
         <div class="container" data-aos="zoom-in">
             <div class="section-title">
                 <h2>OUR CLIENT</h2>
-                <p>Check our OUR CLIENT</p>
+                <p>Check our CLIENT</p>
               </div>
   
               <div class="entire-content">
