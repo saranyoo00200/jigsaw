@@ -15,6 +15,9 @@
 
   <!-- Google Fonts -->
   <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
+  <!-- G-Font -->
+  <link rel="preconnect" href="https://fonts.gstatic.com">
+  <link href="https://fonts.googleapis.com/css2?family=Prompt:wght@300&display=swap" rel="stylesheet">
 
   <!-- Vendor CSS Files -->
   <link href="assets/vendor/aos/aos.css" rel="stylesheet">
@@ -46,7 +49,7 @@
         <ul>
           <li><a class="nav-link scrollto active" href="#hero">Home</a></li>
           <li><a class="nav-link scrollto" href="#about">About</a></li>
-          <li><a class="nav-link scrollto" href="#services">Portfolio</a></li>
+          <li><a class="nav-link scrollto" href="#portfolio">Portfolio</a></li>
           {{-- <li><a class="nav-link scrollto " href="#portfolio">Portfolio</a></li> --}}
           <li><a class="nav-link scrollto" href="#team">Team</a></li>
           <li><a class="nav-link scrollto" href="#clients">Our Client</a></li>
@@ -104,8 +107,6 @@
               <h3><a href="">SOFTWARE</a></h3>
               <p>ประกอบกิจการ ออกแบบ พัฒนา หรือจัดหา ระบบเทคโนโลยีสารสนเทศเพื่อสนับสนุนภารกิจหรือธุรกิจ ให้แก่ บุคคล คณะบุคคล นิติบุคคล ส่วนราชการ และองค์กรของรัฐ ทั้งภายในประเทศและต่างประเทศ</p>
             </div>
-
-            
           </div>
           <div class="col-lg-3 mt-4 mt-lg-0">
             <div class="icon-box">
@@ -132,8 +133,8 @@
       
     </section><!-- End About Section -->
 
-    <!-- ======= Services Section ======= -->
-    <section id="services" class="services">
+    <!-- ======= Portfolio Section ======= -->
+    <section id="portfolio" class="portfolio">
       <div class="container" data-aos="fade-up">
 
         <div class="section-title">
@@ -219,7 +220,7 @@
         </div>
 
       </div>
-    </section><!-- End Services Section -->
+    </section><!-- End Portfolio Section -->
 
 
     <!-- ======= Team Section ======= -->
@@ -241,12 +242,13 @@
                   <a href=""><i class="bi bi-twitter"></i></a>
                   <a href=""><i class="bi bi-facebook"></i></a>
                   <a href=""><i class="bi bi-instagram"></i></a>
-                  <a href=""><i class="bi bi-linkedin"></i></a>
+                  <a href=""><i class="bi bi-phone"></i></a>
                 </div>
               </div>
               <div class="member-info">
-                <h4>Kasitdet Detwongya (Gon)</h4>
-                <span>Department</span>
+                <h4>Kasitdet Detwongya </h4>
+                <b><p class="italic">GON</p></b>  
+                <!-- <span><h3>GON</h3></span> -->
               </div>
             </div>
           </div>
@@ -259,12 +261,12 @@
                   <a href=""><i class="bi bi-twitter"></i></a>
                   <a href=""><i class="bi bi-facebook"></i></a>
                   <a href=""><i class="bi bi-instagram"></i></a>
-                  <a href=""><i class="bi bi-linkedin"></i></a>
+                  <a href=""><i class="bi bi-phone"></i></a>
                 </div>
               </div>
               <div class="member-info">
-                <h4>kidsana panya (Jeng)</h4>
-                <span>Department</span>
+                <h4>kidsana panya </h4>
+                <b><p class="italic">JENG</p></b>
               </div>
             </div>
           </div>
@@ -277,12 +279,12 @@
                   <a href=""><i class="bi bi-twitter"></i></a>
                   <a href=""><i class="bi bi-facebook"></i></a>
                   <a href=""><i class="bi bi-instagram"></i></a>
-                  <a href=""><i class="bi bi-linkedin"></i></a>
+                  <a href=""><i class="bi bi-phone"></i></a>
                 </div>
               </div>
               <div class="member-info">
-                <h4>Kittikorn Juntragoon (Joe)</h4>
-                <span>Department</span>
+                <h4>Kittikorn Juntragoon</h4>
+                <b><p class="italic">JOE</p></b>
               </div>
             </div>
           </div>
@@ -295,12 +297,12 @@
                   <a href=""><i class="bi bi-twitter"></i></a>
                   <a href=""><i class="bi bi-facebook"></i></a>
                   <a href=""><i class="bi bi-instagram"></i></a>
-                  <a href=""><i class="bi bi-linkedin"></i></a>
+                  <a href=""><i class="bi bi-phone"></i></a>
                 </div>
               </div>
               <div class="member-info">
-                <h4>Wanpaya Kaewtien (Jayjay)</h4>
-                <span>Department</span>
+                <h4>Wanpaya Kaewtien</h4>
+                <b><p class="italic">JAYJAY</p></b>
               </div>
             </div>
           </div>
@@ -313,12 +315,12 @@
                   <a href=""><i class="bi bi-twitter"></i></a>
                   <a href=""><i class="bi bi-facebook"></i></a>
                   <a href=""><i class="bi bi-instagram"></i></a>
-                  <a href=""><i class="bi bi-linkedin"></i></a>
+                  <a href=""><i class="bi bi-phone"></i></a>
                 </div>
               </div>
               <div class="member-info">
-                <h4>Surakit Sukjun  (Poy)</h4>
-                <span>Department</span>
+                <h4>Surakit Sukjun  </h4>
+                <b><p class="italic">POY</p></b>
               </div>
             </div>
           </div>
@@ -331,12 +333,12 @@
                   <a href=""><i class="bi bi-twitter"></i></a>
                   <a href=""><i class="bi bi-facebook"></i></a>
                   <a href=""><i class="bi bi-instagram"></i></a>
-                  <a href=""><i class="bi bi-linkedin"></i></a>
+                  <a href=""><i class="bi bi-phone"></i></a>
                 </div>
               </div>
               <div class="member-info">
-                <h4>Natchapol Prommasen (Top)</h4>
-                <span>Department</span>
+                <h4>Natchapol Prommasen </h4>
+                <b><p class="italic">TOP</p></b>
               </div>
             </div>
           </div>
@@ -349,12 +351,12 @@
                   <a href=""><i class="bi bi-twitter"></i></a>
                   <a href=""><i class="bi bi-facebook"></i></a>
                   <a href=""><i class="bi bi-instagram"></i></a>
-                  <a href=""><i class="bi bi-linkedin"></i></a>
+                  <a href=""><i class="bi bi-phone"></i></a>
                 </div>
               </div>
               <div class="member-info">
-                <h4>Watcharin Pengjankul (Art)</h4>
-                <span>Department</span>
+                <h4>Watcharin Pengjankul</h4>
+                <b><p class="italic">ART</p></b>
               </div>
             </div>
           </div>
@@ -367,12 +369,12 @@
                   <a href=""><i class="bi bi-twitter"></i></a>
                   <a href=""><i class="bi bi-facebook"></i></a>
                   <a href=""><i class="bi bi-instagram"></i></a>
-                  <a href=""><i class="bi bi-linkedin"></i></a>
+                  <a href=""><i class="bi bi-phone"></i></a>
                 </div>
               </div>
               <div class="member-info">
-                <h4>Rattapong Poosisom (Pound)</h4>
-                <span>Department</span>
+                <h4>Rattapong Poosisom</h4>
+                <b><p class="italic">POND</p></b>
               </div>
             </div>
           </div>
@@ -386,12 +388,12 @@
                       <a href=""><i class="bi bi-twitter"></i></a>
                       <a href=""><i class="bi bi-facebook"></i></a>
                       <a href=""><i class="bi bi-instagram"></i></a>
-                      <a href=""><i class="bi bi-linkedin"></i></a>
+                      <a href=""><i class="bi bi-phone"></i></a>
                     </div>
                   </div>
                   <div class="member-info">
-                    <h4>Keetawat Chaichompoo  (Kui)</h4>
-                    <span>Department</span>
+                    <h4>Keetawat Chaichompoo </h4>
+                    <b><p class="italic">KUI</p></b>
                   </div>
                 </div>
               </div>
@@ -404,12 +406,12 @@
                       <a href=""><i class="bi bi-twitter"></i></a>
                       <a href=""><i class="bi bi-facebook"></i></a>
                       <a href=""><i class="bi bi-instagram"></i></a>
-                      <a href=""><i class="bi bi-linkedin"></i></a>
+                      <a href=""><i class="bi bi-phone"></i></a>
                     </div>
                   </div>
                   <div class="member-info">
-                    <h4>PRIM PHIMSRI (PRIM)</h4>
-                    <span>Department</span>
+                    <h4>PRIM PHIMSRI</h4>
+                    <b><p class="italic">PRIM</p></b>
                   </div>
                 </div>
               </div>
@@ -422,12 +424,12 @@
                       <a href=""><i class="bi bi-twitter"></i></a>
                       <a href=""><i class="bi bi-facebook"></i></a>
                       <a href=""><i class="bi bi-instagram"></i></a>
-                      <a href=""><i class="bi bi-linkedin"></i></a>
+                      <a href=""><i class="bi bi-phone"></i></a>
                     </div>
                   </div>
                   <div class="member-info">
-                    <h4>PITTANED NAVAWATTANASUP (AMP)</h4>
-                    <span>Department</span>
+                    <h4>PITTANED NAVAWATTANASUP </h4>
+                    <b><p class="italic">AMP</p></b>
                   </div>
                 </div>
               </div>
