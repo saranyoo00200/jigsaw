@@ -42,12 +42,11 @@
 
       <nav id="navbar" class="navbar order-last order-lg-0">
         <ul>
-          <li><a class="nav-link scrollto" href="#services"></a></li>
+          <li><a class="nav-link scrollto" href="#portfolio"></a></li>
         </ul>
-        <i class="bi bi-list mobile-nav-toggle"></i>
       </nav><!-- .navbar -->
 
-      <a href="#services" class="get-started-btn scrollto">Get Started</a>
+      <a href="#portfolio" class="get-started-btn scrollto">Get Started</a>
 
     </div>
   </header><!-- End Header -->
@@ -68,9 +67,9 @@
 
   <main id="main">
 
-    <!-- ======= Services Section ======= -->
-    <section id="services" class="services">
-      <a href="#services"></a>
+    <!-- ======= portfolio Section ======= -->
+    <section id="portfolio" class="portfolio">
+      <a href="#portfolio"></a>
       <div class="container" data-aos="fade-up">
 
         <div class="section-title">
@@ -197,7 +196,7 @@
           </div>
 
       </div>
-    </section><!-- End Services Section -->
+    </section><!-- End portfolio Section -->
 
     <!-- ======= Contact Section ======= -->
     <section id="contact" class="contact">
@@ -298,7 +297,7 @@
               <li><i class="bx bx-chevron-right"></i> <a href="#">About</a></li>
               <li><i class="bx bx-chevron-right"></i> <a href="#">Careers</a></li>
               <li><i class="bx bx-chevron-right"></i> <a href="#">Press & Media</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Terms of Services</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#">Terms of portfolio</a></li>
               <li><i class="bx bx-chevron-right"></i> <a href="#">Privecy Policy</a></li>
               <li><i class="bx bx-chevron-right"></i> <a href="#">Contact Us</a></li>
               <li><i class="bx bx-chevron-right"></i> <a href="#">Timelime</a></li>
