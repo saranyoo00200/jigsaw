@@ -274,7 +274,7 @@
           <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
             <div class="member" data-aos="fade-up" data-aos-delay="100">
               <div class="member-img">
-                <img src="http://jigsawinnovation.com/images/kdd.jpg" class="img-fluid" alt="">
+                <img src="/assets/img/teams/team-gon.jpg" class="img-fluid" alt="">
                 <div class="social">
                   <a href=""><i class="bi bi-twitter"></i></a>
                   <a href=""><i class="bi bi-facebook"></i></a>
@@ -292,7 +292,7 @@
           <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
             <div class="member" data-aos="fade-up" data-aos-delay="200">
               <div class="member-img">
-                <img src="http://jigsawinnovation.com/images/jeng.jpg" class="img-fluid" alt="">
+                <img src="/assets/img/teams/team-jeng.jpg" class="img-fluid" alt="">
                 <div class="social">
                   <a href=""><i class="bi bi-twitter"></i></a>
                   <a href=""><i class="bi bi-facebook"></i></a>
@@ -310,7 +310,7 @@
           <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
             <div class="member" data-aos="fade-up" data-aos-delay="300">
               <div class="member-img">
-                <img src="http://jigsawinnovation.com/images/joe.jpg" class="img-fluid" alt="">
+                <img src="/assets/img/teams/team-joe.jpg" class="img-fluid" alt="">
                 <div class="social">
                   <a href=""><i class="bi bi-twitter"></i></a>
                   <a href=""><i class="bi bi-facebook"></i></a>
@@ -328,7 +328,7 @@
           <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
             <div class="member" data-aos="fade-up" data-aos-delay="400">
               <div class="member-img">
-                <img src="http://jigsawinnovation.com/images/jj.jpg" class="img-fluid" alt="">
+                <img src="/assets/img/teams/team-jj.jpg" class="img-fluid" alt="">
                 <div class="social">
                   <a href=""><i class="bi bi-twitter"></i></a>
                   <a href=""><i class="bi bi-facebook"></i></a>
@@ -346,7 +346,7 @@
           <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
             <div class="member" data-aos="fade-up" data-aos-delay="400">
               <div class="member-img">
-                <img src="http://jigsawinnovation.com/images/poyy.jpg" class="img-fluid" alt="">
+                <img src="/assets/img/teams/team-poy.jpg" class="img-fluid" alt="">
                 <div class="social">
                   <a href=""><i class="bi bi-twitter"></i></a>
                   <a href=""><i class="bi bi-facebook"></i></a>
@@ -364,7 +364,7 @@
           <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
             <div class="member" data-aos="fade-up" data-aos-delay="400">
               <div class="member-img">
-                <img src="http://jigsawinnovation.com/images/top.jpg" class="img-fluid" alt="">
+                <img src="/assets/img/teams/team-top.jpg" class="img-fluid" alt="">
                 <div class="social">
                   <a href=""><i class="bi bi-twitter"></i></a>
                   <a href=""><i class="bi bi-facebook"></i></a>
@@ -382,7 +382,7 @@
           <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
             <div class="member" data-aos="fade-up" data-aos-delay="400">
               <div class="member-img">
-                <img src="http://jigsawinnovation.com/images/pond.jpg" class="img-fluid" alt="">
+                <img src="/assets/img/teams/team-art.jpg" class="img-fluid" alt="">
                 <div class="social">
                   <a href=""><i class="bi bi-twitter"></i></a>
                   <a href=""><i class="bi bi-facebook"></i></a>
@@ -400,7 +400,7 @@
           <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
             <div class="member" data-aos="fade-up" data-aos-delay="400">
               <div class="member-img">
-                <img src="http://jigsawinnovation.com/images/art.jpg" class="img-fluid" alt="">
+                <img src="/assets/img/teams/team-pond.jpg" class="img-fluid" alt="">
                 <div class="social">
                   <a href=""><i class="bi bi-twitter"></i></a>
                   <a href=""><i class="bi bi-facebook"></i></a>
@@ -419,7 +419,7 @@
             <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
                 <div class="member" data-aos="fade-up" data-aos-delay="400">
                   <div class="member-img">
-                    <img src="http://jigsawinnovation.com/images/Kui.jpg" width="100%" height="300px" alt="">
+                    <img src="/assets/img/teams/team-kui.jpg" width="100%" height="300px" alt="">
                     <div class="social">
                       <a href=""><i class="bi bi-twitter"></i></a>
                       <a href=""><i class="bi bi-facebook"></i></a>
@@ -437,7 +437,7 @@
               <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
                 <div class="member" data-aos="fade-up" data-aos-delay="400">
                   <div class="member-img">
-                    <img src="http://jigsawinnovation.com/images/9978.jpg"  width="100%" height="300px" alt="">
+                    <img src="/assets/img/teams/team-prim.jpg"  width="100%" height="300px" alt="">
                     <div class="social">
                       <a href=""><i class="bi bi-twitter"></i></a>
                       <a href=""><i class="bi bi-facebook"></i></a>
@@ -455,7 +455,7 @@
               <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
                 <div class="member" data-aos="fade-up" data-aos-delay="400">
                   <div class="member-img">
-                    <img src="http://jigsawinnovation.com/images/New%20Normal.jpg" width="100%" height="300px" alt="">
+                    <img src="/assets/img/teams/team-amp.jpg" width="100%" height="300px" alt="">
                     <div class="social">
                       <a href=""><i class="bi bi-twitter"></i></a>
                       <a href=""><i class="bi bi-facebook"></i></a>
@@ -488,11 +488,11 @@
   
               <div class="entire-content">
                 <div class="content-carrousel">
-                  <figure class=""><img src="https://cdn.discordapp.com/attachments/841920205743718471/841920305458315286/client-1.png"/></figure>
-                  <figure class=""><img src="https://cdn.discordapp.com/attachments/841920205743718471/841982478335082516/client-2.png"/></figure>
-                  <figure class=""><img src="https://cdn.discordapp.com/attachments/841920205743718471/841982483146866688/client-4.png"/></figure>
-                  <figure class=""><img src="https://cdn.discordapp.com/attachments/841920205743718471/841982478758969394/client-3.png"/></figure>
-                  <figure class=""><img src="https://cdn.discordapp.com/attachments/361148362105421826/842086157575651388/client-5.png"/></figure>
+                  <figure class=""><img src="/assets/img/client/client-1.png"/></figure>
+                  <figure class=""><img src="/assets/img/client/client-2.png"/></figure>
+                  <figure class=""><img src="/assets/img/client/client-3.png"/></figure>
+                  <figure class=""><img src="/assets/img/client/client-4.png"/></figure>
+                  <figure class=""><img src="/assets/img/client/client-5.png"/></figure>
                 </div>
             </div>
   
